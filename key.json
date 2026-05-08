@@ -34,6 +34,13 @@
       "isBanned": false,
       "banReason": "Test Key",
       "userRank": "Supreme User"
+    },
+    "ecrop25": {
+      "hwid": "RESET",
+      "expireDate": "2026-06-07",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
