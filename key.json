@@ -2,19 +2,17 @@
   "AppConfig": {
     "bannerText": "Awaiting Authentication.",
     "getKeyText": "🔑 Get Key ↗️",
-    "getKeyUrl": "https://t.me/moddingzone1",
+    "getKeyUrl": "https://t.me/",
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
     "maintenanceMsg": "server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
-    "tags": [
-      "👨‍💻 Engine by Moddingzone1 👨‍💻"
-    ],
+    "tags": [],
     "title": "Secure Login",
     "updateMsg": "New version available! Please update.",
     "updateRequired": false,
-    "updateUrl": "https://t.me/moddingzone1"
+    "updateUrl": "https://t.me/"
   },
   "BannedHWIDs": {},
   "Keys": {
